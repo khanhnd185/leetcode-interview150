@@ -17,3 +17,16 @@ class Solution(object):
             n = self.nextnum(n)
             if n in d.keys(): return False
             d[n]=n
+
+    def _isHappy(self, n):
+        """
+        :type n: int
+        :rtype: bool
+        """
+        slow = n
+        fast = n
+        while slow != 1:
+            slow = self.nextnum(slow)
+            fast = self.nextnum(self.nextnum(fast))
+            if slow==fast and slow!=1: return False
+        return True

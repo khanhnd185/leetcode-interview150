@@ -17,3 +17,20 @@ class Solution(object):
             s.add(node)
             node = node.next
         return False
+
+# Floyd’s Cycle Finding Algorithm
+class Solution(object):
+    def hasCycle(self, head):
+        """
+        :type head: ListNode
+        :rtype: bool
+        """
+        slow = head
+        fast = head
+        while fast is not None:
+            slow = slow.next
+            fast = fast.next
+            if fast==None: return False
+            fast = fast.next
+            if fast==slow: return True
+        return False
