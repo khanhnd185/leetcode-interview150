@@ -751,10 +751,14 @@ This repository contains my solutions to the Leetcode Top Interview 150 problems
     </tr>
     <tr>
       <td>83</td>
-      <td>Average of Levels in Binary Tree</td>
+      <td>
+        <a href="https://github.com/khanhnd185/leetcode-interview150/blob/master/637-average-of-levels-in-binary-tree/637-average-of-levels-in-binary-tree.md" target="_blank">
+         Average of Levels in Binary Tree
+        </a>
+      </td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>84</td>
