@@ -762,10 +762,14 @@ This repository contains my solutions to the Leetcode Top Interview 150 problems
     </tr>
     <tr>
       <td>84</td>
-      <td>Binary Tree Level Order Traversal</td>
+      <td>
+        <a href="https://github.com/khanhnd185/leetcode-interview150/blob/master/102-binary-tree-level-order-traversal/102-binary-tree-level-order-traversal.md" target="_blank">
+         Binary Tree Level Order Traversal
+        </a>
+      </td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>85</td>
