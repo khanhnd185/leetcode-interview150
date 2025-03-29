@@ -785,10 +785,14 @@ This repository contains my solutions to the Leetcode Top Interview 150 problems
     </tr>
     <tr>
       <td>86</td>
-      <td>Minimum Absolute Difference in BST</td>
+      <td>
+        <a href="https://github.com/khanhnd185/leetcode-interview150/blob/master/530-minimum-absolute-difference-in-BST/530-minimum-absolute-difference-in-BST.md" target="_blank">
+         Minimum Absolute Difference in BST
+        </a>
+      </td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>87</td>
