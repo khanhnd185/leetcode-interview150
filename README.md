@@ -1,6 +1,7 @@
 # Leetcode Top Interview 150
 
-This repository contains my solutions to the Leetcode Top Interview 150 problems.
+This repository contains my solutions to the
+[Leetcode Top Interview 150 problems](https://leetcode.com/studyplan/top-interview-150/).
 
 <table>
   <thead>
@@ -968,10 +969,14 @@ This repository contains my solutions to the Leetcode Top Interview 150 problems
     </tr>
     <tr>
       <td>108</td>
-      <td>Convert Sorted Array to Binary Search Tree</td>
+      <td>
+        <a href="https://github.com/khanhnd185/leetcode-interview150/blob/master/108-convert-sorted-array-to-binary-search-tree/108-convert-sorted-array-to-binary-search-tree.md" target="_blank">
+         Convert Sorted Array to Binary Search Tree
+        </a>
+      </td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>109</td>
