@@ -1025,10 +1025,14 @@ This repository contains my solutions to the
     </tr>
     <tr>
       <td>114</td>
-      <td>Search Insert Position</td>
+      <td>
+        <a href="https://github.com/khanhnd185/leetcode-interview150/blob/master/035-search-insert-position/035-search-insert-position.md" target="_blank">
+         Search Insert Position
+        </a>
+      </td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>115</td>
