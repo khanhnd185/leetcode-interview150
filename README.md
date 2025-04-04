@@ -1116,7 +1116,11 @@ This repository contains my solutions to the
     </tr>
     <tr>
       <td>125</td>
-      <td>Add Binary</td>
+      <td>
+        <a href="https://github.com/khanhnd185/leetcode-interview150/blob/master/067-add-binary/067-add-binary.md" target="_blank">
+         Add Binary
+        </a>
+      </td>
       <td>Easy</td>
       <td>🟢</td>
       <td></td>
