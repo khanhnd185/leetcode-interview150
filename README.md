@@ -1123,14 +1123,18 @@ This repository contains my solutions to the
       </td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>126</td>
-      <td>Reverse Bits</td>
+      <td>
+        <a href="https://github.com/khanhnd185/leetcode-interview150/blob/master/190-reverse-bits/190-reverse-bits.md" target="_blank">
+         Reverse Bits
+        </a>
+      </td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>127</td>
