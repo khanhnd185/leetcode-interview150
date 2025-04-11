@@ -1149,10 +1149,14 @@ This repository contains my solutions to the
     </tr>
     <tr>
       <td>128</td>
-      <td>Single Number</td>
+      <td>
+        <a href="https://github.com/khanhnd185/leetcode-interview150/blob/master/136-single-number/136-single-number.md" target="_blank">
+         Single Number
+        </a>
+      </td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>129</td>
