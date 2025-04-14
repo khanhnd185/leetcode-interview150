@@ -1179,10 +1179,14 @@ This repository contains my solutions to the
     </tr>
     <tr>
       <td>131</td>
-      <td>Palindrome Number</td>
+      <td>
+        <a href="https://github.com/khanhnd185/leetcode-interview150/blob/master/009-palindrome-number/009-palindrome-number.md" target="_blank">
+         Palindrome Number
+        </a>
+      </td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>132</td>
