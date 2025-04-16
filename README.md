@@ -1190,10 +1190,14 @@ This repository contains my solutions to the
     </tr>
     <tr>
       <td>132</td>
-      <td>Plus One</td>
+      <td>
+        <a href="https://github.com/khanhnd185/leetcode-interview150/blob/master/066-plus-one/066-plus-one.md" target="_blank">
+         Plus One
+        </a>
+      </td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>133</td>
