@@ -311,10 +311,14 @@ This repository contains my solutions to the
     </tr>
     <tr>
       <td>34</td>
-      <td>Valid Sudoku</td>
+      <td>
+        <a href="https://github.com/khanhnd185/leetcode-interview150/blob/master/036-valid-sudoku/036-valid-sudoku.md" target="_blank">
+         Valid Sudoku
+        </a>
+      </td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>35</td>
@@ -606,10 +610,14 @@ This repository contains my solutions to the
     </tr>
     <tr>
       <td>67</td>
-      <td>LRU Cache</td>
+      <td>
+        <a href="https://github.com/khanhnd185/leetcode-interview150/blob/master/1146-LRU-cache/146-LRU-cache.md" target="_blank">
+         LRU Cache
+        </a>
+      </td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td colspan="5" align="center">
